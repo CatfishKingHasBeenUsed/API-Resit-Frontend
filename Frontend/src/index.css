@@ -1,0 +1,3 @@
+.table-hover tr:hover{ cursor:pointer; }
+.Subscriber { background-color: darkseagreen; color: black; }
+.Customer { background-color: cadetblue; color: black; }
